@@ -1,4 +1,4 @@
-A react application utilizng a GraphQL API
+A React application utilizing a GraphQL API
 
 ## Available Scripts
 
